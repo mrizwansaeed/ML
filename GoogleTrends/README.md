@@ -1,3 +1,3 @@
-Taken from Datacamp tutorial
+Inspiration from Datacamp tutorial
 
 https://www.datacamp.com/community/tutorials/time-series-analysis-tutorial
